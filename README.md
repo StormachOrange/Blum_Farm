@@ -1,2 +1,1 @@
-# Blum_Farm
-Author: https://github.com/meKryztal, mod: https://github.com/StormachOrange
+![Static Badge](https://img.shields.io/badge/Blum-Farm-purple)
