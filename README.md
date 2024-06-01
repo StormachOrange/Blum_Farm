@@ -1,4 +1,3 @@
-[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/sho6ot)
+[Static Badge](https://img.shields.io/badge/Blum-Farm-purple)
 
-
-![img1](.github/images/demo.png)
+![img1](https://github.com/StormachOrange/Blum_Farm/blob/main/img/img.png)
